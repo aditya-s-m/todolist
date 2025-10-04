@@ -14,7 +14,7 @@ Bootstrap 5.3
 - index.php         # Halaman utama
 - koneksi.php       # Koneksi database
 - functions.php     # Fungsi CRUD
-- database.sql      # Struktur database
+- style.css         # style custom
 
 Cara Menjalankan
 1. Salin folder ke 'htdocs/'
